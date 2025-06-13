@@ -1,3 +1,4 @@
 # conflito-exemplo
 
-Conteúdo da branch main.
+Conflito resolvido manualmente.
+
