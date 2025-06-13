@@ -1,2 +1,3 @@
 # conflito-exemplo
-# conflito-exemplo
+
+Conteúdo da branch conflito-exemplo.
